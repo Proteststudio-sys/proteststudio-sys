@@ -33,9 +33,9 @@
 </div> 
 
 ## Сертификаты
-- [Курс по тестированию на Stepik](https://stepik.org/cert/2356279)
-- [Основы автоматизации тестирования](https://stepik.org/cert/2381665)
-- [Введение в API-тестирование](https://stepik.org/cert/2450277)
+- [Курс по тестированию на Stepik](https://stepik.org/cert/...)
+- [Основы автоматизации тестирования](https://stepik.org/cert/...)
+- [Введение в API-тестирование](https://stepik.org/cert/...)
 
 ## Проекты
 
