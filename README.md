@@ -1,3 +1,4 @@
+
 # Портфолио: Инженер по тестированию / QA Engineer
 
 ## Обо мне
@@ -15,24 +16,27 @@
 
 ## Навыки и технологии
 <div> 
- <img src="https://img.shields.io/badge/Jira-blue" title="Jira" alt="Jira" width="44" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Jira-blue" title="Jira" alt="Jira" width="44" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/TestRail-purple" title="TestRail" alt="TestRail" width="80" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/DevTools-grey" title="DevTools" alt="DevTools" width="80" height="30"/>&nbsp;
- <img src="https://img.shields.io/badge/cURL-black" title="cURL" alt="cURL" width="45" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/cURL-black" title="cURL" alt="cURL" width="45" height="30"/>&nbsp;
   <img src="https://img.shields.io/badge/Postman-orange" title="Postman" alt="Postman" width="80" height="30"/>&nbsp;
- <img src="https://img.shields.io/badge/SOAP_UI-yellow" title="SOAP UI" alt="SOAP UI" width="80" height="30"/>&nbsp;
- <img src="https://img.shields.io/badge/Swagger-green" title="Swagger" alt="Swagger" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Swagger-green" title="Swagger" alt="Swagger" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Charles_Proxy-lightgrey" title="Charles Proxy" alt="Charles Proxy" width="80" height="30"/>&nbsp;
 </div>
 <div>
-   <img src="https://img.shields.io/badge/Jenkins-black" title="Jenkins" alt="Jenkins" width="80" height="30"/>&nbsp;
- <img src="https://img.shields.io/badge/Git-red" title="Git" alt="Git" width="40" height="30"/>&nbsp;
- <img src="https://img.shields.io/badge/DBeaver-blue" title="DBeaver" alt="DBeaver" width="80" height="30"/>&nbsp;
- <img src="https://img.shields.io/badge/GitLab_CI-yellow" title="GitLab CI" alt="GitLab CI" width="80" height="30"/>&nbsp;
- <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="60" height="30"/>&nbsp;
- <img src="https://img.shields.io/badge/Notion-black" title="Notion" alt="Notion" width="80" height="30"/>&nbsp;
-</div> 
+  <img src="https://img.shields.io/badge/Jenkins-black" title="Jenkins" alt="Jenkins" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-red" title="Git" alt="Git" width="40" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/DBeaver-blue" title="DBeaver" alt="DBeaver" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitLab_CI-yellow" title="GitLab CI" alt="GitLab CI" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Trello-blue" title="Trello" alt="Trello" width="60" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Notion-black" title="Notion" alt="Notion" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-darkblue" title="PostgreSQL" alt="PostgreSQL" width="80" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/Kibana-pink" title="Kibana" alt="Kibana" width="80" height="30"/>&nbsp;
+</div>
 
 ## Сертификаты
+- [Курс "Тестировщик ПО с нуля" от Pro-test.Studdio](https://drive.google.com/file/d/1UzAkYLtwJl30TuuNj3PPEyKALnYpdat7/view?usp=sharing)
 - [Курс по тестированию на Stepik](https://stepik.org/cert/...)
 - [Основы автоматизации тестирования](https://stepik.org/cert/...)
 - [Введение в API-тестирование](https://stepik.org/cert/...)
@@ -76,6 +80,70 @@
 **Результаты:** 
 Закрепил навыки тестирования сложных систем, улучшил умение работать с API и проводить нагрузочные тесты.
 
+### Тестирование интернет-магазина "ShopEase"
+
+**Задача:** Провести комплексное тестирование веб-приложения интернет-магазина "ShopEase", включая функциональное тестирование корзины покупок, оплаты, фильтров товаров, регистрации и авторизации пользователей.
+
+**Основные требования (user story):**
+- Пользователи могут регистрироваться и авторизовываться.
+- Корзина должна сохранять добавленные товары, даже если пользователь закрывает браузер.
+- Возможность выбора способов оплаты (банковская карта, электронные деньги).
+- Применение фильтров товаров по цене, бренду и категории.
+- Поддержка отзывов на товары.
+
+**Проведенные работы:**
+- Разработка тест-кейсов для функционального тестирования (корзина, фильтры, оплата).
+- Тестирование API для регистрации пользователей, добавления товаров в корзину и завершения покупок.
+- Проведение кроссбраузерного тестирования для проверки совместимости с Chrome, Firefox, Safari.
+- Написание тестов для проверки безопасности (SQL-инъекции, XSS-атаки).
+  
+**Инструменты:**
+- Jira для управления задачами.
+- Postman для API-тестирования.
+- Jenkins для автоматизации запуска тестов.
+- Selenium для создания автоматизированных тестов UI.
+  
+**Документация:**
+- Чек-листы для регрессионного тестирования.
+- Отчеты о выявленных дефектах и рекомендациях по их исправлению.
+
+**Итоги тестирования:**
+- Найдено 7 багов в системе оплаты, 3 из которых критические.
+- Проведена оптимизация фильтров товаров для ускорения работы на мобильных устройствах.
+
+**Результаты:**
+Укрепил навыки кроссбраузерного тестирования, проверки безопасности веб-приложений и создания автоматизированных тестов.
+
+### Тестирование мобильного приложения для фитнес-трекера "FitTrack"
+
+**Задача:** Провести тестирование мобильного приложения для фитнес-трекера, включая проверку синхронизации данных с устройством и расчетов сжигаемых калорий.
+
+**Основные требования (user story):**
+- Синхронизация данных трекера с мобильным приложением (шаги, пульс, сон).
+- Точное отображение сожженных калорий на основе активности.
+- Поддержка уведомлений о достижении целей (например, количество шагов).
+- Интеграция с Google Fit и Apple Health.
+
+**Проведенные работы:**
+- Разработка тест-кейсов для функционального тестирования основных функций (синхронизация, уведомления, интеграции).
+- Проведение тестирования API для проверки корректности передачи данных.
+- Тестирование работы приложения на различных устройствах и версиях ОС (Android, iOS).
+- Проведение нагрузочного тест
+
+ирования для оценки стабильности работы при большом количестве данных.
+
+**Инструменты:**
+- Charles Proxy для анализа сетевых запросов.
+- Postman для API-тестирования.
+- Android Studio и Xcode для тестирования на эмуляторах.
+  
+**Итоги тестирования:**
+- Найдено 4 критических багов в синхронизации данных.
+- Исправлены ошибки, связанные с некорректным расчетом калорий.
+
+**Результаты:**
+Углубил знания в мобильном тестировании и работе с различными API интеграциями.
+
 ### SQL коллекция запросов
 
 **Задача:** Изучение работы с SQL и оптимизация запросов для управления базами данных.
@@ -84,5 +152,3 @@
 
 **Результаты:**
 - Получил опыт работы в PostgreSQL и написал эффективные SQL запросы для поиска, фильтрации и агрегации данных.
-
-
