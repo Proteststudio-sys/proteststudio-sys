@@ -71,7 +71,7 @@
 - Postman и SOAP UI для тестирования API.
 - JMeter для тестирования производительности.
 
-> [Ссылка на проект](https://docs.google.com/document/d/10eJq1R6_KPTi4vBPFnWScVVRbg7hqAbNkGG8_DPDCKQ/edit?usp=sharing)
+> [Ссылка на проект](https://docs.google.com/document/d/1wc-b1WIapu6D9C7ePml76K0YGo6Y4uF8DTOm0vVbxiU/edit?usp=sharing)
 
 **Итоги тестирования:**
 - Найдено 5 критических багов, связанных с неверным отображением статусов задач.
@@ -153,7 +153,7 @@
 
 **Задача:** Изучение работы с SQL и оптимизация запросов для управления базами данных.
 
-> [Ссылка на коллекцию SQL запросов](https://docs.google.com/document/d/1ogoBNRqZw0CREglt5oY_cBY6VBwIoFn3VDSvu2f9jo0/edit?usp=drive_link)
+> [Ссылка на коллекцию SQL запросов](https://docs.google.com/document/d/1ralUTIh6trcVYMP-7gmE5e4WyQNkDxb65N2WHoocq3M/edit?usp=sharing)
 
 **Результаты:**
 - Получил опыт работы в PostgreSQL и написал эффективные SQL запросы для поиска, фильтрации и агрегации данных.
