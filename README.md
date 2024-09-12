@@ -71,7 +71,7 @@
 - Postman и SOAP UI для тестирования API.
 - JMeter для тестирования производительности.
 
-> [Ссылка на проект](...)
+> [Ссылка на проект](https://docs.google.com/document/d/10eJq1R6_KPTi4vBPFnWScVVRbg7hqAbNkGG8_DPDCKQ/edit?usp=sharing) 
 
 **Итоги тестирования:**
 - Найдено 5 критических багов, связанных с неверным отображением статусов задач.
@@ -148,7 +148,10 @@
 
 **Задача:** Изучение работы с SQL и оптимизация запросов для управления базами данных.
 
-> [Ссылка на коллекцию SQL запросов](...)
+> [Ссылка на коллекцию SQL запросов](https://docs.google.com/document/d/1ogoBNRqZw0CREglt5oY_cBY6VBwIoFn3VDSvu2f9jo0/edit?usp=drive_link)
 
 **Результаты:**
 - Получил опыт работы в PostgreSQL и написал эффективные SQL запросы для поиска, фильтрации и агрегации данных.
+
+## Контактная информация
+[![Telegram Badge](https://img.shields.io/badge/-komarov_serg-blue?style=flat&logo=Telegram&logoColor=white)](...)     [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Mail.ru&logoColor=orange)](...)
