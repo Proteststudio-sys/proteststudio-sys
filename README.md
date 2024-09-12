@@ -159,4 +159,4 @@
 - Получил опыт работы в PostgreSQL и написал эффективные SQL запросы для поиска, фильтрации и агрегации данных.
 
 ## Контактная информация
-[![Telegram Badge](https://img.shields.io/badge/-komarov_serg-blue?style=flat&logo=Telegram&logoColor=white)](...)     [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Mail.ru&logoColor=orange)](...)
+[![Telegram Badge](https://img.shields.io/badge/-alexivlev_tester-blue?style=flat&logo=Telegram&logoColor=white)](...)     [![Mail.ru Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat&logo=Mail.ru&logoColor=orange)](...)
